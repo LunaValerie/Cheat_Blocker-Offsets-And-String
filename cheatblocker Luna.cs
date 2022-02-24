@@ -1,5 +1,21 @@
 Luna UI !
 Anti-Debug : isDebuggerPresent
+
+1C78AF8:"i3FileIntegrityChecker::_update_file_md5"
+1C789FC:"..\\..\\Source\\i3Base\\i3FileIntegrityChecker.cpp"
+1BBFF24:"CGameCharaManager::DeathHuman"
+1BBA290:"_AddTarget"
+1BBA29C:"_AddReinforce"
+1BBA2AC:"_AddSuper"
+1B25210:"Name"
+1BBA398:"Name_V1"
+1BBA364:"_Equipment"
+1BBA33C:"CSkinInfo::ReadInfo"
+1BBA300:"ResName_Man_Blue"
+1BBA314:"ResName_Woman_Red"
+1BBA328:"ResName_Woman_Blue"
+
+1BBA20C:&L"stem.ItemNameDisplay;~System.Home.ItemFolderPathDisplay;~System.Security.EncryptionOwnersDisplay;~System.StorageProviderUIStatus;~System.StorageProviderState"
 Crash Trace : easy handle already used in multi handle
 Cb.cbm : SetErrorCode : Duplicate ErrorCode : %d ( %s )
 Cb.cbm : CPT PrintLog Failed : OpenFile Wrtire [ %s ]
